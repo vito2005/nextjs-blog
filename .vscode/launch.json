@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "name": "FIP",
+      "request": "launch",
+      "runtimeArgs": ["run", "dev"],
+      "runtimeExecutable": "npm",
+      "skipFiles": ["<node_internals>/**"],
+      "type": "pwa-node",
+      "runtimeVersion": "16.14.1",
+      "env": {}
+    }
+  ]
+}
